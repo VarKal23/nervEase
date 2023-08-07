@@ -5,8 +5,6 @@ A public speaking simulator to help users overcome fear and anxiety
 
 <img width="254" alt="logo3" src="https://user-images.githubusercontent.com/61900832/167345651-7d793152-257b-4558-adab-2d0bdf8e64c7.png">
 
-Demo video: https://drive.google.com/file/d/1EteGJ5gIrYJ6F6IXRNto7hheZ4KtnhgA/view?usp=sharing
-
 Tech:
 - Tushar Kohli
 - Anish Mankal
@@ -30,12 +28,13 @@ This project was developed as part of Texas Convergent's build teams which is a 
 Key Features:
 - Custom public speaking VR environment
 - Heart rate and words per minute tracking metrics
-- Compilation and processing of metrics and display through application
+- Compilation and processing of metrics and display through the application
 
 # Demo Video
+https://github.com/VarKal23/nervEase/assets/92049401/b54793a9-6b99-4fe2-bfa0-45eb781152b1
 
 ## Installation and Setup Instructions
-A demo video has been included as installation and setup of this project is complex at the moment requiring Swift/XCode build, Google Cardboard, iPhone, and Apple Watch. Additionally, a connecting piece of code is missing.
+A demo video has been included as the installation and setup of this project is complex at the moment requiring Swift/XCode build, Google Cardboard, iPhone, and Apple Watch. Additionally, a connecting piece of code is missing.
 
 ## Reflection
 This project as previously mentioned was a part of the Texas Convergent Build Teams program and my team came up with this application idea because we felt that current resources to help with public speaking weren't effective enough and not as accessible.
