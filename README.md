@@ -25,7 +25,7 @@ Leads:
 ## Project Status
 This project was developed as part of Texas Convergent's build teams which is a semester-long competition. While there are still a lot of features that could be added, given the time constraints, the features implemented are the ones that were presented. There are no further plans to continue building this project.
 
-Key Features:
+## Key Features:
 - Custom public speaking VR environment
 - Heart rate and words per minute tracking metrics
 - Compilation and processing of metrics and display through the application
